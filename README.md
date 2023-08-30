@@ -9,3 +9,5 @@ Important notes about the code:
 - there are a few cases where you may need to insert values into the code
 
 - please see the code where on lines 92 and 108, you need to insert the filepath into the code
+
+- when the code is run in the IDE, please go to terminal and type **streamlit run {insert filepath of Python file}**
